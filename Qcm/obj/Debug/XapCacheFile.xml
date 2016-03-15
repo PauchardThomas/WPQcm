@@ -1,12 +1,19 @@
-﻿<xapCache source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Bin\Debug\Qcm_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="15/03/2016 14:53:57">
-  <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\obj\Debug\Qcm.dll" archivePath="Qcm.dll" lastWriteTime="15/03/2016 14:53:56" />
+﻿<xapCache source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Bin\Debug\Qcm_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="15/03/2016 16:33:31">
+  <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\obj\Debug\Qcm.dll" archivePath="Qcm.dll" lastWriteTime="15/03/2016 16:33:30" />
   <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="15/03/2016 14:53:44" />
   <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="15/03/2016 14:53:44" />
   <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="15/03/2016 14:53:44" />
   <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="15/03/2016 14:53:44" />
   <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="15/03/2016 14:53:44" />
-  <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="15/03/2016 14:53:56" />
+  <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\README_FIRST.txt" archivePath="README_FIRST.txt" lastWriteTime="15/03/2016 16:07:46" />
+  <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Toolkit.Content\ApplicationBar.Add.png" archivePath="Toolkit.Content\ApplicationBar.Add.png" lastWriteTime="15/03/2016 16:07:46" />
+  <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="15/03/2016 16:07:46" />
+  <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="15/03/2016 16:07:46" />
+  <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Toolkit.Content\ApplicationBar.Delete.png" archivePath="Toolkit.Content\ApplicationBar.Delete.png" lastWriteTime="15/03/2016 16:07:46" />
+  <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Toolkit.Content\ApplicationBar.Select.png" archivePath="Toolkit.Content\ApplicationBar.Select.png" lastWriteTime="15/03/2016 16:07:46" />
+  <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="15/03/2016 16:10:11" />
   <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="15/03/2016 14:53:44" />
   <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="15/03/2016 14:53:44" />
-  <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="15/03/2016 14:53:57" />
+  <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="15/03/2016 16:07:44" />
+  <file source="c:\users\thom'\documents\visual studio 2015\Projects\Qcm\Qcm\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="15/03/2016 15:58:22" />
 </xapCache>
