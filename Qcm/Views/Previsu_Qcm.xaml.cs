@@ -7,14 +7,17 @@ using System.Windows.Controls;
 using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
+using MVVM.Views;
 
 namespace Qcm.Views
 {
-    public partial class Previsu_Qcm : PhoneApplicationPage
+    public partial class Previsu_Qcm : MVVMPhonePage
     {
         public Previsu_Qcm()
         {
-            InitializeComponent();
+           
+           InitializeComponent();
+            this.ViewModel = new ViewModels.ViewModelPrevisuQcm();
         }
     }
 }

@@ -17,7 +17,7 @@ namespace Qcm.Models
         private DateTime _dateFin;
         private int _nbPoints;
         private Category _category;
-        private TimeSpan _duree;
+        private DateTime _duree;
 
         #endregion
 
@@ -60,13 +60,31 @@ namespace Qcm.Models
             set { _category = value; }
         }
 
-        public TimeSpan duree
+        public DateTime duree
         {
             get { return _duree; }
             set { _duree = value; }
         }
 
         #endregion
+
+        #region Constructors
+
+        public Qcm(int id,string libelle, DateTime duree)
+        {
+            _id = id;
+            _libelle = libelle;
+            _duree = duree;
+        }
+
+        public Qcm() { }
+
+        #endregion
+
+        public override string ToString()
+        {
+            return libelle;
+        }
 
     }
 }

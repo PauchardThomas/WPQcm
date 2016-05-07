@@ -31,5 +31,23 @@ namespace Qcm.Models
 
         #endregion
 
+        #region Constructors
+
+        public Category(int id = 0 , string libelle = null)
+        {
+            _id = id;
+            _libelle = libelle;
+        }
+
+        #endregion
+
+        public override string ToString()
+        {
+            return libelle;
+        }
+
+
+
+
     }
 }

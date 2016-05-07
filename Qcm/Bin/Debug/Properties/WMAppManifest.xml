@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2014/deployment" AppPlatformVersion="8.1">
   <DefaultLanguage xmlns="" code="fr-FR" />
   <App xmlns="" ProductID="{629ef4fb-5fd8-45d5-99aa-5055b187f006}" Title="Qcm" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Qcm author" Description="Sample description" Publisher="Qcm" PublisherID="{dbd7052a-9c6d-4d9b-8c03-4a856d392106}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
@@ -35,4 +35,4 @@
     </ScreenResolutions>
   </App>
 </Deployment>
-<!-- WPSDK Version 8.0.9900 -->
+<!-- WPSDK Version 8.1.15116 -->
